@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "Campera rompevientos",
+    "precio": 20000,
+    "thumbnail": "url"
+    "id": 1
+  },
+  {
+    "nombre": "Campera bomber",
+    "precio": 30000,
+    "thumbnail": "url",
+    "id": 2
+  }
+]
